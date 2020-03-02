@@ -1,0 +1,10 @@
+.vs/
+*.user
+Debug/
+Release/
+obj/
+__vm/
+packages/
+desktop.ini
+*.filters
+*.suo
